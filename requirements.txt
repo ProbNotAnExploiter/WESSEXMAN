@@ -1,1 +1,4 @@
-
+rich
+cryptography
+requests
+beautifulsoup4
