@@ -8,7 +8,7 @@
 **Multi-task tool including OSINT, Encryption made by me**
 
 </div>
-# What is WESSEXMAN
+#What is WESSEXMAN
 - A OSINT based tool made by me, still in development.
 ## Disclaimer
 
