@@ -13,8 +13,8 @@
 
 # WESSEXMAN
 
-WESSEXMAN is a Python-based OSINT and security toolkit featuring network utilities, encryption tools, and system analysis features.  
-It is still in active development.
+WESSEXMAN is a Python based OSINT and security toolkit featuring network utilities, encryption tools, and system analysis features.  
+It is still in active development and you may encounter bugs or errors.
 
 ---
 
